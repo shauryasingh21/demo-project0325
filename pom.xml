@@ -5,7 +5,7 @@
   <groupId>com.testcompany</groupId>
   <artifactId>demo-project0325</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
 
   <name>demo-project0325</name>
   <url>http://maven.apache.org</url>
